@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.039bf95e.css",
-    "main.js": "/static/js/main.4a86b29a.js",
+    "main.js": "/static/js/main.fef8384c.js",
     "static/media/abdul_basit.jpg": "/static/media/abdul_basit.01518121814c87fd4ac6.jpg",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/ABDUL_BASIT_resume.pdf": "/static/media/ABDUL_BASIT_resume.7191df57a3f37f7729c7.pdf",
+    "static/media/ABDUL_BASIT_resume.pdf": "/static/media/ABDUL_BASIT_resume.b42ae7e8e0229764e66a.pdf",
     "static/media/postgresql.svg": "/static/media/postgresql.f32aa5bdb32f9b8926fc66b56b71d396.svg",
     "static/media/nestjs.svg": "/static/media/nestjs.ef4268f5bb32b733c0f23bf56867a659.svg",
     "static/media/mongodb.svg": "/static/media/mongodb.52300335cb1653f2a8fa072873a6cc17.svg",
@@ -30,10 +30,10 @@
     "static/media/js-icon.svg": "/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "static/media/vue-icon.svg": "/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
     "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
-    "main.4a86b29a.js.map": "/static/js/main.4a86b29a.js.map"
+    "main.fef8384c.js.map": "/static/js/main.fef8384c.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.4a86b29a.js"
+    "static/js/main.fef8384c.js"
   ]
 }
